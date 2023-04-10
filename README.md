@@ -1,12 +1,12 @@
-# RPCenum
+# Subnet
 
 
 Esta herramienta nos permite listar los siguientes puntos :
 
-* Usuarios del dominio
-* Usuarios del dominio con información
-* Usuarios administradores del dominio
-* Grupos del dominio
+* Primer host
+* Último host
+* Máscara de red
+* Total de hosts
 
 ¿Cómo funciona?
 ======
@@ -26,6 +26,3 @@ La utilidad reporta la información por tablas :
         alt="DUsersInfo"
     style="float: left; margin-right: 10px;" />
 </p>
-
-
-**ANOTACIÓN**: Es posible que se añadan nuevas opciones a la herramienta.
