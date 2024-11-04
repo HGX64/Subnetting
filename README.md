@@ -1,5 +1,9 @@
 # Subnet
 
+***Language***
+- [🇪🇸 Español](./README.es.md)
+- 🇺🇸 English
+
 This tool allows us to list the following points:
 
 * First host
