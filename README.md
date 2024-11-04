@@ -12,7 +12,6 @@ This tool allows us to list the following points:
 * Total hosts
 
 ## How does it work?
-======
 The execution of the tool is very simple:
 
 <p align="center">
